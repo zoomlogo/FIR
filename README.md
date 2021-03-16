@@ -1,9 +1,6 @@
 # FIR
 FIR Programming Language
-
-Yep this is a programming language made intirely in Python.
-
-It has assembly style syntax nothing crazy.
+It has assembly style syntax.
 
 # Download
 Clone it or download the zip, unpack it, make sure you have python 3.7 or above,
