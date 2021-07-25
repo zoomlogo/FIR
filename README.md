@@ -12,7 +12,7 @@ Here the file is the file you want to execute.
 # Example
 Here is a quick example (save it as ex1.fir')
 
-```
+```asm
 ; Add two numbers
 ldx 10
 ldy 5
